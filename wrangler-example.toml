@@ -8,7 +8,7 @@ workers_dev = true
 # preview_id 只在调试时使用，不需要请删除
 
 kv_namespaces = [
-  { binding = "DATABASE", id = "", preview_id = "" }
+  { binding = "DATABASE", id = "16072134765b49d78c84c95a58fd38b0" }
 ]
 
 [vars]
@@ -20,9 +20,9 @@ kv_namespaces = [
 # 所有变量必须为字符串，多个参数的值之间用逗号隔开
 
 # 基本配置
-API_KEY = "sk-"
-TELEGRAM_AVAILABLE_TOKENS = ""
-CHAT_WHITE_LIST = ""
+API_KEY = "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"
+TELEGRAM_AVAILABLE_TOKENS = "6229692886:AAEtrGg5OfFdY43Z43XHn36-nq6WOwBX28Q"
+CHAT_WHITE_LIST = "5608369650"
 # I_AM_A_GENEROUS_PERSON = "false"
 # AUTO_TRIM_HISTORY = "false"
 # MAX_HISTORY_LENGTH = "20"
